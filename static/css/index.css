@@ -1,0 +1,27 @@
+
+
+.container{
+    margin-top: 13rem;
+    height:80vh;
+    width:60rem;
+    max-width: 1200px;
+}
+
+
+.email{
+    border-bottom: 1px solid black;
+}
+
+#final{
+    background-color: skyblue;
+}
+
+.form-control{
+   
+    border:none;
+    border-bottom: 1px solid black;
+    box-shadow: none; 
+}
+.form-control:focus{
+   box-shadow: none;
+}
